@@ -1,18 +1,23 @@
 # Site settings
 title: Veaceslav Gaidarji
-description: "I'm software developer with main focus on Android platform. "
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno/'
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+description: "I'm a software developer with main focus on Android platform. "
+url: 'http://blog.vgaidarji.me'
+baseurl: '/'
+google_analytics: 'UA-74115810-1'
+disqus_shortname: 'vgaidarji'
+simple_search: https://www.google.com/search
+subscribe_rss: /atom.xml
+#excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
+#excerpt_separator: "<!--more-->"
+#titlecase: true       # Converts page and post titles to titlecase
 
 author:
   name: 'Veaceslav Gaidarji'
   email: veaceslav.gaidarji@gmail.com
-  twitter_username:
-  facebook_username:
-  github_username:  donvigo
-  linkedin_username:
+  facebook_username: 100001320317153
+  github_username:  vgaidarji
+  linkedin_username: veaceslavgaidarji
+  stackoverflow: veaceslav-gaidarji
 
 defaults:
   -
@@ -25,7 +30,7 @@ defaults:
 # Build settings
 destination: _site
 paginate: 10
-permalink: /:year/:title/
+permalink: /blog/:year/:month/:day/:title/
 markdown: kramdown
 highlighter: rouge
 
