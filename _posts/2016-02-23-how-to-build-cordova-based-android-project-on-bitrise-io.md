@@ -21,10 +21,9 @@ print_hi('Tom')
 ```
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+<!--more-->
 
 Java already has a room at the retirement home
-
-<!--more-->
 
 I love Java. I really do. But Java is getting old, old enough to retire. Even though Java 8 can be considered as one of the biggest evolutions in the programming language history, Java still carries many drawbacks, limitations and problems. Most of these issues have been there from day one and will continue to exist due to the backward-compatibility nature of the language. On the other side, Dart has been created from the ground up keeping a simple idea in mind: fix the common and recurrent development problems. Dart solves many issues in the programming flow and helps developers create insanely powerful and fluent APIs. Here is a short list of some basic but modern features of the language:
 
