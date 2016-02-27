@@ -57,10 +57,10 @@
               </li>
             {% endif %}
 
-            {% if site.author.stackoverflow_user_id %}
+            {% if site.author.stackoverflow_user %}
               <!-- StackOverflow -->
               <li class="navigation__item">
-                <a href="http://stackoverflow.com/users/{{ site.author.stackoverflow_user_id }}" title="{{ site.author.name }} on stackoverflow" target="_blank">
+                <a href="{{ site.author.stackoverflow_user }}" title="{{ site.author.name }} on stackoverflow" target="_blank">
                   <i class="svg-icon stackoverflow"></i>
                   <span class="label">StackOverflow</span>
                 </a>
