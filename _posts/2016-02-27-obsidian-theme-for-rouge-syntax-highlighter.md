@@ -87,7 +87,7 @@ Having the `Son of Obsidian` theme I was able to adapt it and replace default `m
   pre.highlight,
   .highlight pre { background-color: #272822; }
   ```
-* **Configurations!** Now we have an amazing dark `Son of Obsidian` theme fully configured! Source code of `son-of-obsidian.css` is available on [github][son-of-obsidian]. That's how will look basic Java "Hello World" sample:
+* **Configurations!** Now we have an amazing dark `Son of Obsidian` theme fully configured! Source code of `son-of-obsidian.css` is available on [github](https://github.com/vgaidarji/blog.vgaidarji.me/blob/master/css/theme-son-of-obsidian.css). That's how will look basic Java "Hello World" sample:
 
   ```java
   class HelloWorld {
@@ -102,13 +102,8 @@ Having the `Son of Obsidian` theme I was able to adapt it and replace default `m
 
 [Here](https://github.com/jwarby/jekyll-pygments-themes) you can find other `Jekyll` `pygments` themes, which are compatible with `rouge` highlighter and are ready-to-use.
 
-Even more, I've found another beautiful dark theme which is called [darkly][darkly].
+Even more, I've found another beautiful dark theme which is called [darkly](http://sourcey.com/darkly-pygments-css-theme/).
 
 <img src="/assets/2016/02/27/darkly.png" alt="Darkly code theme" style="width: 500px;"/>
 
 Happy code formatting :tada:
-
-<!--more-->
-
-[son-of-obsidian]: [https://github.com/vgaidarji/blog.vgaidarji.me/blob/master/css/theme-son-of-obsidian.css]
-[darkly]:[http://sourcey.com/darkly-pygments-css-theme/]
