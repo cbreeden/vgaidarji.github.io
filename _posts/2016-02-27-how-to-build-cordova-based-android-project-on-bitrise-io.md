@@ -18,9 +18,9 @@ I wanted to contribute to [bitrise-steps](https://github.com/bitrise-io/bitrise-
 
 As all Android jobs on [bitrise.io](http://bitrise.io) are running in isolated `docker` containers, all what I needed to do is to extend existing [bitrise docker images](https://github.com/bitrise-docker) and add Cordova support.
 
-It took me 2-3 weeks to prepare docker image for [bitrise.io](http://bitrise.io) with Cordova related dependencies installed. It's a bit long period of time, as I had problems with freezing docker containers (every time when `cordova build` command was executed, I've got frozen docker container). I've tested my docker image locally on Mac OS - and again got frozen container on `cordova build`. Than I've configured `ubuntu-14.04` using `Vagrant`, installed docker in ubuntu-14.04 VM - same effect.
+It took me 2-3 weeks to prepare docker image for [bitrise.io](http://bitrise.io) with Cordova related dependencies installed. It's a bit long period of time, as I had problems with freezing docker containers on my local PC (every time when `cordova build` command was executed, I've got frozen docker container). I've tested my docker image on Mac OS a lot - and got frozen container on `cordova build`. Than I've configured `ubuntu-14.04` using `Vagrant`, installed docker in ubuntu-14.04 VM - same effect. But I knew that configuration is ok, as I read tons of articles about docker images already, checked some other docker images which have Cordova related dependencies.
 
-Finally, I've published [docker-android-cordova](https://hub.docker.com/r/vgaidarji/docker-android-cordova/) image to [Docker Hub](https://hub.docker.com) and decided to give a last try to my docker image at bitrise.io. And it worked! :open_mouth:
+Finally, I've published [docker-android-cordova](https://hub.docker.com/r/vgaidarji/docker-android-cordova/) image to [Docker Hub](https://hub.docker.com) and decided to give a last try to my docker image at [bitrise.io](http://bitrise.io). And it worked! :open_mouth:
 
 <img src="/assets/2016/02/27/david-blane.png" alt="David Blane"/>
 
