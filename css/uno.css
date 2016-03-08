@@ -1380,7 +1380,7 @@ nav {
 
 .navigation__item {
 	display: inline-block;
-	margin: 0 5px;
+	margin: 0 2px;
 	line-height: 1em; }
 	.navigation__item a {
 		display: block;
@@ -1402,6 +1402,9 @@ nav {
 		.navigation--social a .icon {
 			display: block;
 			font-size: 1.7em; }
+
+.cover-navigation--primary {
+	margin-bottom: 5px;}
 
 .pagination {
 	display: block;
@@ -1651,7 +1654,7 @@ input[type="tel"] {
 		width: 100%; }
 		.cover-navigation .navigation {
 			display: block;
-			width: 100%; }
+			width: 100%;}
 			.cover-navigation .navigation li {
 				width: 80%;
 				margin-bottom: .4em; }
