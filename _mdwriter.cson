@@ -50,8 +50,8 @@ layout: {layout}
 title: {title}
 date: {date}
 comments: true
-categories:
-tags:
+categories: []
+tags: []
 ---
 
 <!-- Excerpt -->
