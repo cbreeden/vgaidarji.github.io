@@ -58,4 +58,7 @@ Now we can easily navigate as we normally do when crash occurs on emulator or co
 
 #### **Conclusion**
 
-This really simple feature helps to analyze and fix issues and much faster.
+AndroidStudio provides huge amount of commands/tools which simplify the developer life.
+Knowing majority of them adds +100 to speed:
+
+**TODO** *add gif "pressing on custom shortcut with title 'Create an application for me' will generate finished application".*
