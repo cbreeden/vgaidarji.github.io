@@ -1,10 +1,14 @@
 ---
 layout: post
 title: Analyze Stack Trace like a boss!
-date: 2016-09-28 15:25:00
+date: '2016-10-07 09:14:41'
 comments: true
-categories: [android, android-studio]
-tags: [android, android-studio]
+categories:
+  - android
+  - android-studio
+tags:
+  - android
+  - android-studio
 ---
 
 In this post we'll talk about amazing feature `Analyze Stack Trace` available in
@@ -58,7 +62,5 @@ Now we can easily navigate as we normally do when crash occurs on emulator or co
 
 #### **Conclusion**
 
-AndroidStudio provides huge amount of commands/tools which simplify the developer life.
-Knowing majority of them adds +100 to speed.
-
-**Bonus:** When you meet a new developer, exchanging with shortcuts and tools used increases your productivity a lot.
+AndroidStudio is really powerful IDE and with every update it brings us new goodies which increase our productivity.
+Knowing majority of them adds +100 to speed. 
