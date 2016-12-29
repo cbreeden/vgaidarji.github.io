@@ -5,6 +5,14 @@ Based on [Jekyll-Uno](https://github.com/joshgerdes/jekyll-uno), thanks for the 
 
 Jekyll-Uno - a minimal, responsive theme for Jekyll based on the [Uno](https://github.com/daleanthony/Uno) theme for Ghost.
 
+### Useful tools/commands
+
+- [How to deploy blog locally](https://github.com/joshgerdes/jekyll-uno#install-and-test)
+- Install and use `Markdown Preview` `Atom` package
+- Install and use `Markdown Writer` `Atom` package for drafts/post creation
+<img src="/images/markdown-writer.png" alt="markdown-writer package"/>
+**Don't forget to configure `siteLocalDir` in `Markdown Preview` package  [settings](https://github.com/zhuochun/md-writer/wiki/Settings#basic-settings)**.
+
 ### Copyright and license
 
 The following directories and their contents are Copyright Veaceslav Gaidarji. You may not reuse anything therein without my permission:
