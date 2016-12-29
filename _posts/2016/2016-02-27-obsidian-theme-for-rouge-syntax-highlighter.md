@@ -88,7 +88,7 @@ Having the `Son of Obsidian` theme I was able to adapt it and replace default `m
   pre.highlight,
   .highlight pre { background-color: #272822; }
   ```
-* **Configurations!** Now we have an amazing dark `Son of Obsidian` theme fully configured! Source code of `son-of-obsidian.css` is available on [github](https://github.com/vgaidarji/blog.vgaidarji.me/blob/master/css/theme-son-of-obsidian.css). That's how will look basic Java "Hello World" sample:
+* **Configurations!** Now we have an amazing dark `Son of Obsidian` theme fully configured! Source code of `son-of-obsidian.css` is available on [github](https://github.com/vgaidarji/vgaidarji.github.io/blob/master/css/theme-son-of-obsidian.css). That's how will look basic Java "Hello World" sample:
 
   ```java
   class HelloWorld {

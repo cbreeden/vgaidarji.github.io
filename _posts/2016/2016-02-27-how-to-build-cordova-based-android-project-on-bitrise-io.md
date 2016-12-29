@@ -11,7 +11,7 @@ tags: [android, cordova, bitrise.io]
 
 #### **Prehistory**
 
-Bitrise provides range of [stacks](http://devcenter.bitrise.io/docs/available-stacks), and you can decide which one to choose for your project. I'm doing Android development and everything related to Android is automatically interesting to me.
+Bitrise provides range of [stacks](http://devcenter.bitrise.io/infrastructure/available-stacks/), and you can decide which one to choose for your project. I'm doing Android development and everything related to Android is automatically interesting to me.
 I wanted to contribute to [bitrise-steps](https://github.com/bitrise-io/bitrise-steplib) something related to Android. Inspiration came from [bitrise-user-voice](https://bitrise.uservoice.com) and I've chosen [**Install Cordova and Ionic**](https://bitrise.uservoice.com/forums/235233-general/suggestions/9285630-install-cordova-and-ionic). Both `Cordova` and `Ionic` platforms were new to me, which even more increased my interest.
 
 <!--more-->
