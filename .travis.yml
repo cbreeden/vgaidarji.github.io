@@ -1,0 +1,13 @@
+language: ruby
+rvm:
+- 2.2.5
+
+script: .script/ci-build.sh
+
+env:
+  global:
+    # speeds up installation of html-proofer
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+
+# route the build to the container-based infrastructure for a faster build
+sudo: false

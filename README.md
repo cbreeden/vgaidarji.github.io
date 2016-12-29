@@ -1,4 +1,5 @@
 # My personal blog data
+[![Build Status](https://travis-ci.org/vgaidarji/vgaidarji.github.io.svg?branch=master)](https://travis-ci.org/vgaidarji/vgaidarji.github.io)
 
 Based on [Jekyll-Uno](https://github.com/joshgerdes/jekyll-uno), thanks for the amazing template to [Josh Gerdes](https://github.com/joshgerdes).
 
